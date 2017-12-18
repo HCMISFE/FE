@@ -1,0 +1,15 @@
+PharmInventory/bin/
+PharmInventory/obj/
+QuickUpdator/obj/
+StockoutIndexBuilder.cs/bin/
+QuickUpdator/bin/
+BLL/bin/
+BLL/obj/
+ConnectionStringManager/bin/
+ConnectionStringManager/obj/
+DAL/bin/
+DAL/obj/
+StockoutIndexBuilder.cs/obj/
+HCMIS Facility Edition.v11.suo
+PharmInventory/PharmInventory.csproj.user
+.vs/HCMIS Facility Edition/v14/.suo

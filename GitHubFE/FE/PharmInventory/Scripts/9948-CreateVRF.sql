@@ -1,0 +1,16 @@
+CREATE TABLE [dbo].[VRF](
+	[ID] [int] IDENTITY(1,1) NOT NULL,
+	[FromMonth] [int] NOT NULL,
+	[FromYear] [int] NOT NULL,
+	[ToMonth] [int] NOT NULL,
+	[ToYear] [int] NOT NULL,
+	[DateOfSubmission] [datetime] NULL,
+	[LastVRFStatus] [varchar](100) NULL,
+	[VRFType] [int] NOT NULL,
+ CONSTRAINT [PK_VRF] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+

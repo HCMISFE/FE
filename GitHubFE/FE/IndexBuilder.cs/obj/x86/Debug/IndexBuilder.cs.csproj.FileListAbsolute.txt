@@ -1,0 +1,14 @@
+E:\Code\Learn\Deliver\AMC_Calculator\IndexBuilder.cs\bin\Debug\IndexBuilder.cs.exe
+E:\Code\Learn\Deliver\AMC_Calculator\IndexBuilder.cs\bin\Debug\IndexBuilder.cs.pdb
+E:\Code\Learn\Deliver\AMC_Calculator\IndexBuilder.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Code\Learn\Deliver\AMC_Calculator\IndexBuilder.cs\obj\x86\Debug\IndexBuilder.cs.Properties.Resources.resources
+E:\Code\Learn\Deliver\AMC_Calculator\IndexBuilder.cs\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Code\Learn\Deliver\AMC_Calculator\IndexBuilder.cs\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Code\Learn\Deliver\AMC_Calculator\IndexBuilder.cs\obj\x86\Debug\IndexBuilder.cs.exe.licenses
+E:\Code\Learn\Deliver\AMC_Calculator\IndexBuilder.cs\obj\x86\Debug\IndexBuilder.cs.exe
+E:\Code\Learn\Deliver\AMC_Calculator\IndexBuilder.cs\obj\x86\Debug\IndexBuilder.cs.pdb
+E:\Code\Learn\Deliver\AMC_Calculator\IndexBuilder.cs\obj\x86\Debug\IndexBuilder.cs.BuildIndicesView.resources
+E:\Code\Learn\Deliver\AMC_Calculator\IndexBuilder.cs\bin\Debug\StockoutIndexBuilder.dll
+E:\Code\Learn\Deliver\AMC_Calculator\IndexBuilder.cs\bin\Debug\EntityFramework.dll
+E:\Code\Learn\Deliver\AMC_Calculator\IndexBuilder.cs\bin\Debug\StockoutIndexBuilder.pdb
+E:\Code\Learn\Deliver\AMC_Calculator\IndexBuilder.cs\bin\Debug\EntityFramework.xml
